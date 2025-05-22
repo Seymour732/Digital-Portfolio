@@ -19,3 +19,7 @@ A – Achievable: I’ll attend all classes and make use of labs and practice op
 R – Relevant: This aligns with my ICT studies and long-term career plans in IT.
 
 T – Time-bound: I plan to reach this goal within 12 months.
+
+Reflection
+
+During my career counselling session, I identified IT support as a career that matches my skills and interests. I realized the importance of setting a clear goal to guide my learning and job preparation. By committing to complete my ICT diploma and create a portfolio showcasing practical IT support tasks, I now have a focused plan that will help me confidently pursue entry-level roles after graduation.

@@ -5,7 +5,7 @@ Welcome to my Work-Readiness Digital Portfolio. This portfolio showcases my deve
 Career Counseling
 
 Evidence:
-![Career Development](<Career Development-1.PNG>)
+![alt text](<Career Development-1.PNG>)
 Goal:
 To secure an entry-level IT Support Technician position within the next 12 months after completing my ICT diploma.
 

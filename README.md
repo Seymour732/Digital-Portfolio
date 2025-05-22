@@ -6,7 +6,6 @@ Career Counseling
 
 Evidence:
 ![Career Development](<Career Development-1.PNG>)
-
 Goal:
 To secure an entry-level IT Support Technician position within the next 12 months after completing my ICT diploma.
 
@@ -23,3 +22,11 @@ T – Time-bound: I plan to reach this goal within 12 months.
 Reflection
 
 During my career counselling session, I identified IT support as a career that matches my skills and interests. I realized the importance of setting a clear goal to guide my learning and job preparation. By committing to complete my ICT diploma and create a portfolio showcasing practical IT support tasks, I now have a focused plan that will help me confidently pursue entry-level roles after graduation.
+
+
+![Skills and Interests](<Skill and Interests-1.PNG>)
+
+
+![Personality Assessment](<Personality Assessment-1.PNG>)
+
+![Create a CV](<Create a CV-1.PNG>)

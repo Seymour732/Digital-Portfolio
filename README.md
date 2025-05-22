@@ -1,1 +1,1 @@
-# Digital-Portfolio
+# Seymour Lawrence: GitHub Digital-Portfolio

@@ -85,7 +85,10 @@ As a result, I began adjusting my communication approach by listening more activ
 
 ## Evidence:
 ![Create a CV](<Create a CV-1.PNG>)
+[View my CV (PDF)](Seymour%20Lawrence%20CV%202025%20(1).pdf)
 
+
+##Reflection
 Before this module, I hadn’t fully realized how important a well-crafted CV is in making a strong first impression. I learned that many candidates are overlooked not because they lack the right skills, but because their CVs fail to clearly communicate their strengths and potential. This made me reflect on how my own CV might not have been showcasing my value effectively.
 
 As part of this module, I took steps to improve my CV by focusing on structure, clarity, and relevance. I approached it as a marketing document—something that should not just list my qualifications but highlight how I align with what employers are looking for. I made sure to organize each section logically and include a personal profile, clearly defined skills, and action-oriented descriptions of my experience.

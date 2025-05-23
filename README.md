@@ -111,7 +111,7 @@ The work-readiness training helped me understand how to present my qualification
 # CV Submission
 
 ## Evidence
-[my CV](Seymour%20Lawrence%20CV%202025%20%281%29.pdf)
+[My CV](Seymour%20Lawrence%20CV%202025%20%281%29.pdf)
 
 ## Reflection:
 

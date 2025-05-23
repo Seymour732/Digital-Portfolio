@@ -71,7 +71,9 @@ By completing the skills self-assessment, I identified key transferable and adap
 Personality Assessment Results (RIASEC):
 
 -Realistic
+
 -Investigate
+
 -Conventional
 
 ## Reflection:

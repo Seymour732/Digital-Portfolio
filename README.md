@@ -29,30 +29,40 @@ During my career counselling session, I identified IT support as a career that m
 
 ![Skills and Interests](<Skill and Interests-1.PNG>)
 
-Top 5 Core Values:
+### Top 5 Core Values:
 
 -Responsibility 
+
 -Learning 
+
 -Respect 
+
 -Support 
+
 -Reliability 
 
-Top Transferable Skills:
+### Top Transferable Skills:
 
 -Problem Solving 
+
 -Adaptability 
+
 -Collaboration 
 
-Top Adaptive Skills:
+### Top Adaptive Skills:
 
 -Patient 
+
 -Motivated
+
 -Reliable
 
-Vocational Interest Areas (RIASEC):
+### Vocational Interest Areas (RIASEC):
 
 -Investigative 
+
 -Conventional
+
 -Social 
 
 ## Reflection
@@ -91,7 +101,7 @@ As a result, I began adjusting my communication approach by listening more activ
 
 
 
-##Reflection
+## Reflection
 Before this module, I hadn’t fully realized how important a well-crafted CV is in making a strong first impression. I learned that many candidates are overlooked not because they lack the right skills, but because their CVs fail to clearly communicate their strengths and potential. This made me reflect on how my own CV might not have been showcasing my value effectively.
 
 As part of this module, I took steps to improve my CV by focusing on structure, clarity, and relevance. I approached it as a marketing document—something that should not just list my qualifications but highlight how I align with what employers are looking for. I made sure to organize each section logically and include a personal profile, clearly defined skills, and action-oriented descriptions of my experience.
@@ -107,5 +117,5 @@ The work-readiness training helped me understand how to present my qualification
 
 I learned that even a strong CV can be ignored if it’s submitted poorly. Formatting errors, unclear emails, or bad timing can hurt your chances. My task was to submit my CV professionally, ensuring it reflected my skills and was sent with proper email etiquette. By following the module’s guidance on communication, I improved how I present myself to employers and feel more confident in future applications.
 
-Conclusion
+## Conclusion
 This portfolio showcases the personal and practical growth I’ve gained through the Work-Readiness Module. From setting clear career goals and identifying my strengths, to building a professional CV and learning how to communicate effectively, I now feel more confident and prepared for the modern workplace. The module has equipped me with both the mindset and tools to approach the job market with clarity and purpo

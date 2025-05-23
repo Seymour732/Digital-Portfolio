@@ -70,9 +70,9 @@ By completing the skills self-assessment, I identified key transferable and adap
 
 Personality Assessment Results (RIASEC):
 
-Realistic
-Investigate
-Conventional
+-Realistic
+-Investigate
+-Conventional
 
 ## Reflection:
 Through this module, I realized how personality traits play a major role in both career satisfaction and team performance. One key insight I gained is that a mismatch between personality and work environment can affect productivity and morale. This became clear to me during a group project, where I noticed that although I shared valuable input, I occasionally had friction with teammates about how tasks should be carried out.
@@ -85,7 +85,8 @@ As a result, I began adjusting my communication approach by listening more activ
 
 ## Evidence:
 ![Create a CV](<Create a CV-1.PNG>)
-[View my CV (PDF)](Seymour%20Lawrence%20CV%202025%20(1).pdf)
+[My CV](Seymour%20Lawrence%20CV%202025%20%281%29.pdf)
+
 
 
 ##Reflection
@@ -98,6 +99,7 @@ The work-readiness training helped me understand how to present my qualification
 # CV Submission
 
 ## Evidence
+[my CV](Seymour%20Lawrence%20CV%202025%20%281%29.pdf)
 
 ## Reflection:
 

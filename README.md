@@ -19,7 +19,7 @@ R – Relevant: This aligns with my ICT studies and long-term career plans in IT
 
 T – Time-bound: I plan to reach this goal within 12 months.
 
-##Reflection
+## Reflection
 
 During my career counselling session, I identified IT support as a career that matches my skills and interests. I realized the importance of setting a clear goal to guide my learning and job preparation. By committing to complete my ICT diploma and create a portfolio showcasing practical IT support tasks, I now have a focused plan that will help me confidently pursue entry-level roles after graduation.
 
@@ -96,7 +96,7 @@ The work-readiness training helped me understand how to present my qualification
 
 ## Evidence
 
-##Reflection:
+## Reflection:
 
 I learned that even a strong CV can be ignored if it’s submitted poorly. Formatting errors, unclear emails, or bad timing can hurt your chances. My task was to submit my CV professionally, ensuring it reflected my skills and was sent with proper email etiquette. By following the module’s guidance on communication, I improved how I present myself to employers and feel more confident in future applications.
 

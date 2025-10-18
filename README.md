@@ -118,4 +118,44 @@ The work-readiness training helped me understand how to present my qualification
 I learned that even a strong CV can be ignored if it’s submitted poorly. Formatting errors, unclear emails, or bad timing can hurt your chances. My task was to submit my CV professionally, ensuring it reflected my skills and was sent with proper email etiquette. By following the module’s guidance on communication, I improved how I present myself to employers and feel more confident in future applications.
 
 ## Conclusion
-This portfolio showcases the personal and practical growth I’ve gained through the Work-Readiness Module. From setting clear career goals and identifying my strengths, to building a professional CV and learning how to communicate effectively, I now feel more confident and prepared for the modern workplace. The module has equipped me with both the mindset and tools to approach the job market with clarity and purpo
+This portfolio showcases the personal and practical growth I’ve gained through the Work-Readiness Module. From setting clear career goals and identifying my strengths, to building a professional CV and learning how to communicate effectively, I now feel more confident and prepared for the modern workplace. The module has equipped me with both the mindset and tools to approach the job market with clarity and purpose
+
+
+---
+
+## 🌐 Professional Networking
+
+**Evidence:**  
+LinkedIn profile and class networking activity  
+
+**Reflection:**  
+This section helped me understand that building professional connections early is key to career growth. I created and refined my **LinkedIn profile**, connected with peers and mentors, and engaged in discussions about IT trends. Networking has shown me that opportunities often come from relationships — not just applications. I now plan to stay active in online IT communities to continue learning and connecting.  
+
+---
+
+## 🏢 Workplace Etiquette
+
+**Evidence:**  
+Workplace behaviour module and group activity reflections  
+
+**Reflection (STAR Format):**  
+- **Situation:** In a group project, I worked with diverse personalities and communication styles.  
+- **Task:** I needed to ensure respectful teamwork while meeting deadlines.  
+- **Action:** I practiced punctuality, active listening, and conflict resolution.  
+- **Result:** Our team delivered successfully, and I learned that professionalism and respect are essential in maintaining harmony at work.  
+
+This section reminded me that technical skills alone are not enough — behaviour, attitude, and teamwork define long-term success.  
+
+---
+
+## 🏁 Conclusion
+
+This portfolio showcases the personal and professional growth I’ve gained through the **Work-Readiness Module**.  
+
+From setting clear goals to improving communication, developing my CV, and mastering interview and networking skills — I now feel confident and prepared for the modern workplace.  
+
+I have developed not just technical ability, but also the **professional mindset** required to succeed in the ICT industry. This experience has built the foundation for my future as an **IT Support Technician** who is adaptable, responsible, and career-driven.  
+
+---
+
+© 2025 Seymour Lawrence

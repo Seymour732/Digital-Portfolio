@@ -119,7 +119,20 @@ I learned that even a strong CV can be ignored if it’s submitted poorly. Forma
 
 ## Conclusion
 This portfolio showcases the personal and practical growth I’ve gained through the Work-Readiness Module. From setting clear career goals and identifying my strengths, to building a professional CV and learning how to communicate effectively, I now feel more confident and prepared for the modern workplace. The module has equipped me with both the mindset and tools to approach the job market with clarity and purpose
+---
 
+## 💬 Business Communication
+
+**Evidence:**  
+Completed business communication exercises and professional email templates  
+
+**Reflection (STAR Format):**  
+- **Situation:** During the module, we learned about workplace communication — including formal emails, meeting etiquette, and report writing.  
+- **Task:** I was required to write a professional email to a potential employer.  
+- **Action:** I applied the proper structure (greeting, body, closing) and maintained a respectful and concise tone.  
+- **Result:** My communication became more professional and polished. I now understand how tone and clarity affect how others perceive me in the workplace.  
+
+This section taught me how crucial it is to communicate clearly, especially in technical support where instructions must be understood quickly and accurately.  
 
 ---
 

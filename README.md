@@ -123,7 +123,7 @@ This portfolio showcases the personal and practical growth I’ve gained through
 
 ---
 
-## 🌐 Professional Networking
+## Professional Networking
 
 **Evidence:**  
 LinkedIn profile and class networking activity  
@@ -148,7 +148,7 @@ This section reminded me that technical skills alone are not enough — behaviou
 
 ---
 
-## 🏁 Conclusion
+## Conclusion
 
 This portfolio showcases the personal and professional growth I’ve gained through the **Work-Readiness Module**.  
 

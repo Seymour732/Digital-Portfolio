@@ -133,7 +133,7 @@ This section helped me understand that building professional connections early i
 
 ---
 
-## 🏢 Workplace Etiquette
+## Workplace Etiquette
 
 **Evidence:**  
 Workplace behaviour module and group activity reflections  
